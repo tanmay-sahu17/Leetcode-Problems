@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
