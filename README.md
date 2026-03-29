@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0134-gas-station](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0200-number-of-islands](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [1219-path-with-maximum-gold](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1219-path-with-maximum-gold) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0134-gas-station) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Heap (Priority Queue)
