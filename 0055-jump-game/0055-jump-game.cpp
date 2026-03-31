@@ -4,9 +4,7 @@ public:
         int maxjump=0;
         for(int i=0;i<nums.size();i++){
               if(i>maxjump)return false;
-            if(nums[i]+i>maxjump){
-                maxjump=nums[i]+i;
-            }
+           maxjump=max(maxjump,nums[i]+i);
           
         }
         return true;
