@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Math
 |  |
 | ------- |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2069-walking-robot-simulation-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2069-walking-robot-simulation-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 <!---LeetCode Topics End-->
