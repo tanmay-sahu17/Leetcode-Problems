@@ -29,11 +29,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3548-equal-sum-grid-partition-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0048-rotate-image) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
