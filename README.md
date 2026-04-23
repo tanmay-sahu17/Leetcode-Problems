@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2615-sum-of-distances](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2751-robot-collisions) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0763-partition-labels](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0763-partition-labels) |
+| [2615-sum-of-distances](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [2615-sum-of-distances](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
