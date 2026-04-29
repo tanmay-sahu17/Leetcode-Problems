@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2751-robot-collisions](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2751-robot-collisions) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Prefix Sum
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 ## Simulation
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
+| [3225-maximum-score-from-grid-operations](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 ## String Matching
 |  |
 | ------- |
