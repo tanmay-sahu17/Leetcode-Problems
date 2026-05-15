@@ -11,6 +11,5 @@ public:
         if(mp[i]!=1)return false;
       }
       return true;
-        
-    }
+    }   
 };
