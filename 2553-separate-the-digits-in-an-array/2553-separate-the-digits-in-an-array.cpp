@@ -2,18 +2,15 @@ class Solution {
 public:
     vector<int> separateDigits(vector<int>& nums) {
         
-        vector<int> result;
+        vector<int> ans;
 
-        for (int num : nums) {
-
-            string s = to_string(num);
-
-            for (char ch : s) {
-
-                result.push_back(ch - '0');
-            }
+       for(auto i:nums){
+        string num=to_string(i);
+        for(int i=0;i<num.size();i++){
+            ans.push_back(num[i]-'0');
         }
+       }
 
-        return result;
+        return ans;
     }
 };
