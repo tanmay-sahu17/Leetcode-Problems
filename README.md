@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [0994-rotting-oranges](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1219-path-with-maximum-gold](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1219-path-with-maximum-gold) |
+| [1306-jump-game-iii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
+| [1306-jump-game-iii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 ## Breadth-First Search
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0994-rotting-oranges) |
+| [1306-jump-game-iii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1306-jump-game-iii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Union-Find
