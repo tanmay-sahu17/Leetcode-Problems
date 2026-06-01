@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1861-rotating-the-box) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2553-separate-the-digits-in-an-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2615-sum-of-distances](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2615-sum-of-distances) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Heap (Priority Queue)
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2751-robot-collisions](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
