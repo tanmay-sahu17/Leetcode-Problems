@@ -333,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+## Database
+|  |
+| ------- |
+| [1341-movie-rating](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1341-movie-rating) |
 <!---LeetCode Topics End-->
