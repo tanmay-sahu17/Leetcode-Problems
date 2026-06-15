@@ -8,7 +8,7 @@ public:
 
         while(l<=r){
         currvol=(r-l)*min(height[l],height[r]);
-        if(height[l]<=height[r]){
+        if(height[l]<height[r]){
             l++;
         }
         else{
