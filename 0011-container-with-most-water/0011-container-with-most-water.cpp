@@ -6,7 +6,7 @@ public:
         int r=height.size()-1;
         int currvol=1;
 
-        while(l<=r){
+        while(l<r){
         currvol=(r-l)*min(height[l],height[r]);
         if(height[l]<height[r]){
             l++;
