@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1861-rotating-the-box) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1219-path-with-maximum-gold](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1219-path-with-maximum-gold) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Sorting
 |  |
 | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
+| [2065-maximum-path-quality-of-a-graph](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2065-maximum-path-quality-of-a-graph) |
 ## Linked List
 |  |
 | ------- |
