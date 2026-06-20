@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0763-partition-labels](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0796-rotate-string](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0796-rotate-string) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2751-robot-collisions](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2751-robot-collisions) |
 ## Design
