@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3546-equal-sum-grid-partition-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
 ## Heap (Priority Queue)
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2784-check-if-array-is-good) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Matrix
 |  |
@@ -278,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Dynamic Programming
 |  |
@@ -287,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0788-rotated-digits](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0788-rotated-digits) |
 | [3225-maximum-score-from-grid-operations](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3660-jump-game-ix) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
@@ -318,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0785-is-graph-bipartite) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -348,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Segment Tree
 |  |
