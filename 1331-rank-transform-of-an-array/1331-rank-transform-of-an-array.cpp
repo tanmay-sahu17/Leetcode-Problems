@@ -3,7 +3,7 @@ public:
     vector<int> arrayRankTransform(vector<int>& arr) {
 
         vector<int> temp=arr;
-        map<int,int> mp;
+        unordered_map<int,int> mp;
         int n=temp.size();
         sort(temp.begin(),temp.end());
 
