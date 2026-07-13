@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [1219-path-with-maximum-gold](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1219-path-with-maximum-gold) |
 | [1306-jump-game-iii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1306-jump-game-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1345-jump-game-iv) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0763-partition-labels](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0763-partition-labels) |
+| [1331-rank-transform-of-an-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1345-jump-game-iv) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2615-sum-of-distances) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0455-assign-cookies) |
+| [1331-rank-transform-of-an-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2751-robot-collisions](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2751-robot-collisions) |
