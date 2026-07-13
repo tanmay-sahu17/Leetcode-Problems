@@ -4,18 +4,18 @@ public:
 
         vector<int> temp=arr;
         map<int,int> mp;
-
+        int n=temp.size();
         sort(temp.begin(),temp.end());
 
         int rank=1;
 
-        for(int i=0;i<temp.size();i++){
+        for(int i=0;i<n;i++){
             if(mp.find(temp[i])==mp.end()){
                 mp[temp[i]]=rank++;
             }
         }
 
-        for(int i=0;i<arr.size();i++){
+        for(int i=0;i<n;i++){
             arr[i]=mp[arr[i]];
         }
 
