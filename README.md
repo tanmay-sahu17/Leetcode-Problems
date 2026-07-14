@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0788-rotated-digits](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0788-rotated-digits) |
 | [3225-maximum-score-from-grid-operations](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3660-jump-game-ix](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3660-jump-game-ix) |
@@ -358,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0204-count-primes) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bit Manipulation
 |  |
