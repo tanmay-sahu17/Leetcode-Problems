@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [1046-last-stone-weight](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0148-sort-list) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Graph Theory
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0148-sort-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0148-sort-list) |
 ## Trie
 |  |
