@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0547-number-of-provinces) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0133-clone-graph](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0547-number-of-provinces) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Database
@@ -404,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0100-same-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
