@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0133-clone-graph) |
+| [0205-isomorphic-strings](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0763-partition-labels](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0205-isomorphic-strings](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0657-robot-return-to-origin) |
 | [0763-partition-labels](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0763-partition-labels) |
