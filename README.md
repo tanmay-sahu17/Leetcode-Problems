@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0788-rotated-digits) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3093-longest-common-suffix-queries](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3093-longest-common-suffix-queries) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
