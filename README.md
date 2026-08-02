@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0860-lemonade-change](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0860-lemonade-change) |
+| [0877-stone-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1046-last-stone-weight) |
 | [1219-path-with-maximum-gold](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1219-path-with-maximum-gold) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0877-stone-game) |
 | [3225-maximum-score-from-grid-operations](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -467,4 +470,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
