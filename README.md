@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3093-longest-common-suffix-queries](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3093-longest-common-suffix-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1219-path-with-maximum-gold](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1219-path-with-maximum-gold) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2065-maximum-path-quality-of-a-graph) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -414,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0204-count-primes) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Bit Manipulation
 |  |
