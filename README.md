@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1046-last-stone-weight) |
+| [1140-stone-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1219-path-with-maximum-gold](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1219-path-with-maximum-gold) |
 | [1306-jump-game-iii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [1140-stone-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [2615-sum-of-distances](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2615-sum-of-distances) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0788-rotated-digits) |
 | [0877-stone-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -484,4 +488,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1140-stone-game-ii) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
