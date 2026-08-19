@@ -15,7 +15,7 @@ public:
 
         for (auto &it : mp) {
 
-            auto reserved = it.second;
+            auto &reserved = it.second;
 
             bool left =
                 !reserved.count(2) &&
