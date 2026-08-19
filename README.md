@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1306-jump-game-iii) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [2029-stone-game-ix](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [1331-rank-transform-of-an-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1345-jump-game-iv](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1345-jump-game-iv) |
+| [1386-cinema-seat-allocation](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -448,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
