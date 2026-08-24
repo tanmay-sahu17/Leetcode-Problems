@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1861-rotating-the-box) |
+| [1872-stone-game-viii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [2065-maximum-path-quality-of-a-graph](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2065-maximum-path-quality-of-a-graph) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1510-stone-game-iv](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1732-find-the-highest-altitude](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2615-sum-of-distances](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
@@ -386,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [3225-maximum-score-from-grid-operations](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3225-maximum-score-from-grid-operations) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -526,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -533,12 +538,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
