@@ -35,8 +35,8 @@ public:
         }
 
         int mindistance=INT_MAX;
-
-        for(int i=1;i<cp.size();i++) {
+        int n=cp.size();
+        for(int i=1;i<n;i++) {
             mindistance=min(mindistance,cp[i]-cp[i-1]);
         }
 
