@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0148-sort-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0287-find-the-duplicate-number](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0763-partition-labels) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -485,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [1386-cinema-seat-allocation](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1386-cinema-seat-allocation) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -592,4 +596,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
