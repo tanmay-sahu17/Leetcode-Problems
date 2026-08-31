@@ -7,7 +7,7 @@ public:
             mp[i]++;
         }
 
-        for(auto i:mp){
+        for(auto &i:mp){
             if(i.second>=2){
                 return i.first;
             }
