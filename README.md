@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0134-gas-station) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0047-permutations-ii) |
+| [0088-merge-sorted-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0347-top-k-frequent-elements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0287-find-the-duplicate-number](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0455-assign-cookies) |
