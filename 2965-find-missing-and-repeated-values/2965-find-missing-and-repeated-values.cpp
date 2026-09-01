@@ -11,11 +11,10 @@ public:
                 freq[grid[i][j]]++;
             }
         }
-
         int missing=-1;
         int repeated=-1;
 
-        for(int i=0;i<=lastele;i++){
+        for(int i=1;i<=lastele;i++){
             if(freq[i]==0)missing=i;
             else if (freq[i]==2)repeated=i;
         }
