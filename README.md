@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0204-count-primes) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0133-clone-graph](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
 | [0347-top-k-frequent-elements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -478,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Graph Theory
@@ -567,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [2029-stone-game-ix](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2029-stone-game-ix) |
@@ -643,4 +648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
