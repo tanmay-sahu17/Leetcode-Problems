@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0047-permutations-ii) |
@@ -431,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0118-pascals-triangle) |
@@ -476,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -574,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Queue
 |  |
