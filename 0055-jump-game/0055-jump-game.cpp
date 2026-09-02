@@ -10,8 +10,8 @@ public:
  
             farthest = max(farthest, i + nums[i]); 
  
-            if (farthest >= nums.size() - 1) 
-                return true; 
+            // if (farthest >= nums.size() - 1) 
+            //     return true; 
         } 
  
         return true; 
