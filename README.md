@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0380-insert-delete-getrandom-o1) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -590,6 +592,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0274-h-index](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0274-h-index) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Combinatorics
 |  |
