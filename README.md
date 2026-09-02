@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0134-gas-station) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0435-non-overlapping-intervals](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0788-rotated-digits) |
