@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0076-minimum-window-substring](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0133-clone-graph](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0133-clone-graph) |
 | [0169-majority-element](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0205-isomorphic-strings) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0076-minimum-window-substring](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
