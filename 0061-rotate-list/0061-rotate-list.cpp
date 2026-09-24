@@ -14,7 +14,7 @@ public:
         if(head==NULL||head->next==NULL)return head;
         ListNode*curr=head;
         int length=findlen(head);
-        if(length!=0)k=k%length;
+          k=k%length;
           while(curr->next!=NULL){
             curr=curr->next;
           }
