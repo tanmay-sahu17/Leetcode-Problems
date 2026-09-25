@@ -7,7 +7,7 @@ public:
             return true;
         }
 
-        if(p!=NULL&&q!=NULL&&p->val!=q->val)return false;
+        if(p->val!=q->val)return false;
 
         bool left=isSameTree(p->left,q->left);
         bool right=isSameTree(p->right,q->right);
