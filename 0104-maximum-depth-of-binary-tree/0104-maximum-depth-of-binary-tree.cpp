@@ -5,9 +5,9 @@ public:
         if(root==NULL){
             return 0;
         }
-        if(!root->left&&!root->right){
-            return 1;
-        }
+        // if(!root->left&&!root->right){
+        //     return 1;
+        // }
         int left=maxDepth(root->left);
         int right=maxDepth(root->right);
          
