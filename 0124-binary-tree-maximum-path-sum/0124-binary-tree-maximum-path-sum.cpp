@@ -13,7 +13,7 @@ public:
         sum = max(sum, root->val + left + right);
 
         // Parent ko sirf ek side ka path de sakte hain
-        return root->val + max(left, right);
+        return root->val +max(left,right);
     }
 
     int maxPathSum(TreeNode* root) {
