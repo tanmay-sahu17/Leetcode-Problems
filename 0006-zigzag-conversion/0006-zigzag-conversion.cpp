@@ -1,32 +1,29 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        if(numRows==1||s.size()<=numRows){
-            return s;
-        }
-        int row=0;
-        int direction=1;
+        if(numRows == 1) return s;
 
-        vector<string>rows(numRows);
+        vector<string> ans(numRows, "");
+        string res = "";
+        int j = 0;
 
-        for(char ch:s){
-            rows[row]+=ch;
-              
-              if(row==0){
-                 direction=1;
-              }
-              else if(row==numRows-1){
-                direction=-1;
-              }
-              row+=direction;
+        while(j < s.length()) {
 
+            for(int i = 0; i < numRows && j < s.length(); i++) {
+                ans[i] += s[j];
+                j++;
+            }
+
+            for(int k = numRows - 2; k > 0 && j < s.length(); k--) {
+                ans[k] += s[j];
+                j++;
+            }
         }
 
-        string ans="";
+        for(string &str : ans) {
+            res += str;
+        }
 
-        for(auto row:rows){
-            ans+=row;
-        }     
-        return ans;  
+        return res;
     }
 };
