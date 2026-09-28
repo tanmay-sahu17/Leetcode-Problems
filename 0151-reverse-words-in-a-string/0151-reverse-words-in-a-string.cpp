@@ -1,33 +1,27 @@
 class Solution {
 public:
     string reverseWords(string s) {
-         int i=0;
-        while(!s.empty() &&s.front()==' '){
-           s.erase(0, 1);
+        int n = s.length();
+        string temp="";
+        int i = 0;
+        while (i<n) {
+           while(i<n&&s[i]==' ')i++;
+          if(i>=n)break; 
+        if(!temp.empty())temp+=" ";
+             while(i<n&&s[i]!=' '){
+            temp+=s[i++];
+           }
         }
-        while(!s.empty() &&s.back()==' '){
-            s.pop_back();
-        }
-        reverse(s.begin(),s.end());
-        string ans="";
-        string currstr="";
 
-        for(int i=0;i<s.size();i++){
-            currstr = "";
-             while(i<s.size()&&s[i]!=' '){
-                currstr+=s[i];
-                i++;
-             }
-             reverse(currstr.begin(),currstr.end());
-             ans+=currstr;
-             ans+=' ';
-             while(i<s.size()&&s[i]==' '){
-                i++;
-             }
-              i--;
+       reverse(temp.begin(),temp.end());
+        int start=0;
+        for(int i=0;i<=temp.size();i++){
+            if(i==temp.size()||temp[i]==' '){
+                reverse(temp.begin()+start,temp.begin()+i);
+                start=i+1;
+            }
         }
-        ans.pop_back();
-        return ans;
-        
+
+        return temp;
     }
 };
