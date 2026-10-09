@@ -31,6 +31,6 @@ public:
             return arr[n / 2];
         }
 
-        return (arr[n / 2 - 1] + (double)arr[n / 2]) / 2.0;
+        return (arr[n / 2 - 1] + arr[n / 2]) / 2.0;
     }
 };
