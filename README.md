@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -944,4 +945,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0056-merge-intervals) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
