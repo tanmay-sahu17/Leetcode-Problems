@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0733-flood-fill) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0994-rotting-oranges) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -951,4 +953,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0278-first-bad-version) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/tanmay-sahu17/Leetcode-Problems/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
